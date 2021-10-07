@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio1", "ejercicio1\ejercicio1.csproj", "{02343DFD-40BF-4A5B-9085-6668FC3A6F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio3", "ejercicio3\ejercicio3.csproj", "{7ED84B81-71F1-48C6-AE2F-931CCC4014BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio2", "ejercicio2\ejercicio2.csproj", "{B963CD14-847C-499F-9549-52BAA2CEAD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02343DFD-40BF-4A5B-9085-6668FC3A6F6B}.Debug|x86.ActiveCfg = Debug|x86
+		{02343DFD-40BF-4A5B-9085-6668FC3A6F6B}.Debug|x86.Build.0 = Debug|x86
+		{02343DFD-40BF-4A5B-9085-6668FC3A6F6B}.Release|x86.ActiveCfg = Release|x86
+		{02343DFD-40BF-4A5B-9085-6668FC3A6F6B}.Release|x86.Build.0 = Release|x86
+		{7ED84B81-71F1-48C6-AE2F-931CCC4014BF}.Debug|x86.ActiveCfg = Debug|x86
+		{7ED84B81-71F1-48C6-AE2F-931CCC4014BF}.Debug|x86.Build.0 = Debug|x86
+		{7ED84B81-71F1-48C6-AE2F-931CCC4014BF}.Release|x86.ActiveCfg = Release|x86
+		{7ED84B81-71F1-48C6-AE2F-931CCC4014BF}.Release|x86.Build.0 = Release|x86
+		{B963CD14-847C-499F-9549-52BAA2CEAD9D}.Debug|x86.ActiveCfg = Debug|x86
+		{B963CD14-847C-499F-9549-52BAA2CEAD9D}.Debug|x86.Build.0 = Debug|x86
+		{B963CD14-847C-499F-9549-52BAA2CEAD9D}.Release|x86.ActiveCfg = Release|x86
+		{B963CD14-847C-499F-9549-52BAA2CEAD9D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
